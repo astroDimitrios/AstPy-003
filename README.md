@@ -16,7 +16,7 @@ Intro to Nuclear Fusion in stars.
 
 **fusionLOG.py** creates the log scale version of the binding energy plot shown below:
 
-![AstroWelcome](bindingEnergyLog.gif)
+![AstroWelcome](https://github.com/astroDimitrios/Astronomy/blob/main/AstPy-003%20Stellar%20Fusion/BE%20Media/bindingEnergyperN.gif)
 
 **fusion.py** creates the same plot with linear scales.
 
