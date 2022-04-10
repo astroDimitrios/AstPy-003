@@ -14,15 +14,15 @@ Have a think about these questions and make some predictions! Be sure to tell so
 
 Intro to Nuclear Fusion in stars.
 
-**fusionLOG.py** creates the log scale version of the binding energy plot shown below:
+**BE.py** creates binding energy plots like the one below.
 
 ![AstroWelcome](https://github.com/astroDimitrios/Astronomy/blob/main/AstPy-003%20Stellar%20Fusion/BE%20Media/bindingEnergyperN.gif)
 
-**fusion.py** creates the same plot with linear scales.
-
-**mass16.csv** was pre-processed from data by the Atomic Mass Data Center ([AMDC](http://amdc.impcas.ac.cn/filel.html)).
-**mass16Abundant.csv** is the same but with only the most abundant isotope of each element.
-
-The three pdfs contain further reading/are references that I used and link in the code and notebook.
+**CB.py** creates this image of the proton proton Coulomb barrier.
 
 ![AstroWelcome](ppCoulombBarrier.png)
+
+**mass16.csv** was pre-processed from data by the Atomic Mass Data Center ([AMDC](http://amdc.impcas.ac.cn/filel.html)).
+**mass16Abundant.csv** is the same but with only the most abundant isotope of each element (pre-processed by hand - not sure why - using the pdfs).
+
+The three pdfs contain further reading/are references that I used and link in the code and notebook.
